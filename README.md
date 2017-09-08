@@ -1,2 +1,2 @@
 # itwercks
-Bootstrapping github/wercker
+Bootstrapping github/wercker.
