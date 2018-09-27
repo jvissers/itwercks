@@ -1,2 +1,0 @@
-# itwercks
-Bootstrapping github/wercker.
